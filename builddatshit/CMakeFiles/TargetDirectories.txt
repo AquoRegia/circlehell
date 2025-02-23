@@ -1,3 +1,0 @@
-C:/Users/Administrator/Documents/idklol/builddatshit/CMakeFiles/circle_hell.dir
-C:/Users/Administrator/Documents/idklol/builddatshit/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Documents/idklol/builddatshit/CMakeFiles/rebuild_cache.dir
